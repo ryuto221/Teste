@@ -2,4 +2,4 @@
 
 Teste de branch
 
-Este é um teste (=
+Este é um teste (=)
